@@ -1,5 +1,9 @@
+# Types of Experiments
+- Expriment 1
+        - 
+- Expriment 2
+- Expriment 3 
 
-## execution environment
 
 - Ubuntu20.04
 - Python3
@@ -26,6 +30,7 @@ $ pip3 install plyvel
 $ apt-get -y install python3-tk
 ```
 
+## Expriment 1, 2
 ## How to do it
 
 
@@ -54,3 +59,4 @@ $ python3 owner_server4.py
 
 $ python3 owner_serverXX.py <-(It is desirable to start in order)
 ```
+## Expriment 3
