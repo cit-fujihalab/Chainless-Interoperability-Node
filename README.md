@@ -1,10 +1,10 @@
-# Types of Experiments
-- Expriment 1
-        - 
-- Expriment 2
-- Expriment 3 
+# Experiments on Relayer Aggregation (RA)
 
+## Experiments on Analyzing IBC (Inter-Blockchain Communication)
+You can check Experiments on Analyzing IBC (Inter-Blockchain Communication) in the following repository.
+[https://github.com/Salgueiro-Folhas/simIBC_experiment]
 
+## Experimental Environment
 - Ubuntu20.04
 - Python3
 
